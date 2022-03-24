@@ -1,0 +1,2 @@
+CS_Site_ID,ERF_ID,Cutoff_Dist,Max_Lat,Max_Lat_Source_ID,Max_Lat_Rupture_ID,Max_Lon,Max_Lon_Source_ID,Max_Lon_Rupture_ID,Min_Lat,Min_Lat_Source_ID,Min_Lat_Rupture_ID,Min_Lon,Min_Lon_Source_ID,Min_Lon_Rupture_ID
+112,100,200,64.1369,36,5,-19.8009,36,5,63.8156,33,5,-21.2078,20,5
